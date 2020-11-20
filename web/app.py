@@ -11,6 +11,7 @@ def mainmenu():
     <body>
     <center><h1>Hello World! from AWS CodeDeploy.</h1><br/>
     <h2>My Name is Satoshi</h2>
+    <iframe　https://youtu.be/GVrRXhS0mLs></iframe>）
     </body>
     </html>"""
 
